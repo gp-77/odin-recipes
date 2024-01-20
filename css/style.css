@@ -1,0 +1,20 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.ingredientes {
+    color: orangered;
+}
